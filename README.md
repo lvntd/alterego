@@ -57,3 +57,5 @@ Session directories live under `os.tmpdir()/alterego/session-<n>` and are never 
 ## Requirements
 
 Node.js 20 or later.
+
+Author: Levan Tediashvili
