@@ -3,7 +3,7 @@
 Launch multiple isolated Chromium browser windows at once — each with its own cookies, storage, and session, tiled across your screen.
 
 ```sh
-npm install -g alterego
+npm install -g @lvntd/alterego
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "alterego",
+  "name": "@lvntd/alterego",
   "version": "0.2.0",
   "description": "Launch multiple isolated Chromium browser windows at once",
   "type": "module",
@@ -12,6 +12,9 @@
   ],
   "engines": {
     "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "build": "tsup",
